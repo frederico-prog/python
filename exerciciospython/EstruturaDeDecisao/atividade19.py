@@ -46,11 +46,13 @@ while True:
         flexaoCentena = 'centenas'
 
     resp = ' '
-    while resp not in 'S/N':
-        resp = str(input('Você deseja continuar? [S/N]')).strip().upper()[0]
-        print(resp)
+    sair = False
+    while resp not in 'SN':
+        resp = str(input('Você deseja continuar? [S/N]')).upper().split()[0]
         if resp == 'N':
-            break
+            sair = True
+    if sair:
+        break
 
     # Imprime os resultados
     if digitos == 3:

@@ -29,10 +29,7 @@ descontopromofruta = 0.10
 kilopromocao = 8
 precopromocao = 25
 
-pagosemdesconto = 0
-desconto = 0
-peso = 0
-pago = 0
+pagosemdesconto = desconto = peso = pago = 0
 
 # Menu
 print(' ')

@@ -28,13 +28,9 @@ lista_carnes = [
 
 # Declaração das variáveis
 descontocartao = 0.05
-desconto = 0
-valorkg = 0
-custo = 0
-peso = 0
+desconto = valorkg = custo = peso = 0
 run = True
-compras = []
-lista_compra = []
+compras = lista_compra = []
 
 # Menu incial
 print(' ')
