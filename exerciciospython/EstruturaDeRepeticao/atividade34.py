@@ -3,7 +3,7 @@
 aquele que é divisível apenas por um e por ele mesmo. Faça um programa que peça um número inteiro e determine se ele é
 ou não um número primo.
 '''
-num = int(input("Digite um número inteiro: "))
+num = int(input('Digite um número inteiro: '))
 
 x = 2
 a = 0
@@ -13,11 +13,10 @@ while x < num:
         a = 0
         x = num
     else:
-        x = x + 1
+        x += 1
         a = 1
 
 if a == 1 or num == 2:
-    print("O número", num, "é primo!")
-
+    print(f'O número {num} é primo!')
 else:
-    print("O número", num, "não é primo!")
+    print(f'O número {num} não é primo!')
