@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf1d213a-7f49-4b89-9684-b25bc964ec94" name="Default Changelist" comment="" />
+    <list default="true" id="bf1d213a-7f49-4b89-9684-b25bc964ec94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,10 +47,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PythonDSA" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.calendario">
+  <component name="RunManager" selected="Python.teste2">
     <configuration name="calendario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,8 +114,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Atividades/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividades/exercicios/ex092.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Atividades/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Atividades/exercicios/teste2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste2" />
+        <item itemvalue="Python.ex092" />
         <item itemvalue="Python.calendario" />
         <item itemvalue="Python.ex001" />
         <item itemvalue="Python.ex000" />
@@ -138,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595543625305</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Calendário em python">
+      <created>1595543693090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595543693090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +204,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Calendário em python" />
@@ -161,22 +215,35 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1595542283606" />
-    <state width="1515" height="284" key="GridCell.Tab.0.bottom" timestamp="1595543276214">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595873843900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595543276214" />
-    <state width="1515" height="284" key="GridCell.Tab.0.center" timestamp="1595543276213">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1595873843900" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595543789728" />
+    <state width="1339" height="242" key="GridCell.Tab.0.bottom" timestamp="1595864297069">
+      <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595543276213" />
-    <state width="1515" height="284" key="GridCell.Tab.0.left" timestamp="1595543276213">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1595863905292" />
+    <state width="1339" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1595864297069" />
+    <state width="1515" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595543764568" />
+    <state width="1339" height="242" key="GridCell.Tab.0.center" timestamp="1595864297069">
+      <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595543276213" />
-    <state width="1515" height="284" key="GridCell.Tab.0.right" timestamp="1595543276214">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="284" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1595863905292" />
+    <state width="1339" height="242" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1595864297069" />
+    <state width="1515" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595543764567" />
+    <state width="1339" height="242" key="GridCell.Tab.0.left" timestamp="1595864297069">
+      <screen x="1920" y="0" width="1360" height="728" />
     </state>
-    <state width="1515" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595543276214" />
+    <state width="1515" height="284" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1595863905292" />
+    <state width="1339" height="242" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1595864297069" />
+    <state width="1515" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595543764567" />
+    <state width="1339" height="242" key="GridCell.Tab.0.right" timestamp="1595864297069">
+      <screen x="1920" y="0" width="1360" height="728" />
+    </state>
+    <state width="1515" height="284" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1595863905292" />
+    <state width="1339" height="242" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@1920.0.1360.728" timestamp="1595864297069" />
+    <state width="1515" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595543764568" />
     <state x="478" y="0" width="579" height="824" key="find.popup" timestamp="1595542221132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
