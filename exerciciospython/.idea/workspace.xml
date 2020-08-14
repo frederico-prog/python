@@ -20,14 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f4564a1-09b7-408c-b6c8-3d524c4eeabc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista/Atividade9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista/Atividade8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista/Atividade8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +60,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../django" />
   </component>
-  <component name="RunManager" selected="Python.Atividade7">
-    <configuration name="Atividade3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Atividade17">
+    <configuration name="Atividade13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Atividade14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Atividade15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Atividade16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Atividade17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Atividade7" />
-        <item itemvalue="Python.Atividade6" />
-        <item itemvalue="Python.Atividade5" />
-        <item itemvalue="Python.Atividade4" />
-        <item itemvalue="Python.Atividade3" />
+        <item itemvalue="Python.Atividade17" />
+        <item itemvalue="Python.Atividade16" />
+        <item itemvalue="Python.Atividade15" />
+        <item itemvalue="Python.Atividade14" />
+        <item itemvalue="Python.Atividade13" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596899093933</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercício de listas">
+      <created>1597202239762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597202239762</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +236,8 @@
     <MESSAGE value="Atualização do exercício 41." />
     <MESSAGE value="Atividades 41, 42, 43, 44 e 45" />
     <MESSAGE value="Atividades 41, 42, 43, 44 e 45." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atividades 41, 42, 43, 44 e 45." />
+    <MESSAGE value="Exercício de listas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de listas" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596899575223">
@@ -234,37 +245,43 @@
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1596899575223" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595541078420" />
-    <state width="1515" height="246" key="GridCell.Tab.0.bottom" timestamp="1597201635401">
+    <state width="1515" height="397" key="GridCell.Tab.0.bottom" timestamp="1597381321986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="246" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597201635401" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596204460317" />
-    <state width="1515" height="246" key="GridCell.Tab.0.center" timestamp="1597201635400">
+    <state width="1515" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842537" />
+    <state width="1515" height="246" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597202130760" />
+    <state width="1515" height="397" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597381321986" />
+    <state width="1515" height="397" key="GridCell.Tab.0.center" timestamp="1597381321986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="246" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597201635400" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596204460316" />
-    <state width="1515" height="246" key="GridCell.Tab.0.left" timestamp="1597201635400">
+    <state width="1515" height="225" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842536" />
+    <state width="1515" height="246" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597202130759" />
+    <state width="1515" height="397" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597381321986" />
+    <state width="1515" height="397" key="GridCell.Tab.0.left" timestamp="1597381321986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="246" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597201635400" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596204460316" />
-    <state width="1515" height="246" key="GridCell.Tab.0.right" timestamp="1597201635401">
+    <state width="1515" height="225" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842536" />
+    <state width="1515" height="246" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597202130759" />
+    <state width="1515" height="397" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597381321986" />
+    <state width="1515" height="397" key="GridCell.Tab.0.right" timestamp="1597381321986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="246" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597201635401" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596204460316" />
+    <state width="1515" height="225" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842537" />
+    <state width="1515" height="246" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597202130759" />
+    <state width="1515" height="397" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597381321986" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596459919872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1596459919872" />
-    <state x="479" y="145" width="578" height="534" key="find.popup" timestamp="1596773378347">
+    <state x="479" y="145" width="578" height="592" key="find.popup" timestamp="1597375486603">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="479" y="145" width="578" height="534" key="find.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1596773378347" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597197333824">
+    <state x="479" y="145" width="578" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1597375486603" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597354765813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597354765813" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597197333824" />
   </component>
 </project>
