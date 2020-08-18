@@ -20,12 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f4564a1-09b7-408c-b6c8-3d524c4eeabc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista/Atividade22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classe/Atividade1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classe/Atividade2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classe/Atividade3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classe/Atividade4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista/Atividade22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista/Atividade22.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +55,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../django" />
   </component>
-  <component name="RunManager" selected="Python.Atividade22">
-    <configuration name="Atividade18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Atividade4">
+    <configuration name="Atividade1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classe/Atividade1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Atividade2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciospython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,53 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Atividade20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exerciciospython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Atividade21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exerciciospython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista/Atividade21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classe/Atividade2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,13 +119,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Atividade3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exerciciospython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classe/Atividade3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Atividade4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exerciciospython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classe/Atividade4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Atividade4" />
+        <item itemvalue="Python.Atividade3" />
+        <item itemvalue="Python.Atividade2" />
+        <item itemvalue="Python.Atividade1" />
         <item itemvalue="Python.Atividade22" />
-        <item itemvalue="Python.Atividade19" />
-        <item itemvalue="Python.Atividade21" />
-        <item itemvalue="Python.Atividade20" />
-        <item itemvalue="Python.Atividade18" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597381574221</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atividades 18, 19, 20, 21 e 22">
+      <created>1597639950499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597639950499</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +247,8 @@
     <MESSAGE value="Atividades 41, 42, 43, 44 e 45." />
     <MESSAGE value="Exercício de listas" />
     <MESSAGE value="Atividades de 8 a 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atividades de 8 a 17" />
+    <MESSAGE value="Atividades 18, 19, 20, 21 e 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividades 18, 19, 20, 21 e 22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596899575223">
@@ -248,29 +256,29 @@
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1596899575223" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595541078420" />
-    <state width="1515" height="251" key="GridCell.Tab.0.bottom" timestamp="1597639875355">
+    <state width="1515" height="236" key="GridCell.Tab.0.bottom" timestamp="1597708474556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842537" />
-    <state width="1515" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597639875355" />
+    <state width="1515" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597708474556" />
     <state width="1515" height="393" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597623098941" />
-    <state width="1515" height="251" key="GridCell.Tab.0.center" timestamp="1597639875355">
+    <state width="1515" height="236" key="GridCell.Tab.0.center" timestamp="1597708474556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="225" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842536" />
-    <state width="1515" height="251" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597639875355" />
+    <state width="1515" height="236" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597708474556" />
     <state width="1515" height="393" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597623098941" />
-    <state width="1515" height="251" key="GridCell.Tab.0.left" timestamp="1597639875355">
+    <state width="1515" height="236" key="GridCell.Tab.0.left" timestamp="1597708474556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="225" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842536" />
-    <state width="1515" height="251" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597639875355" />
+    <state width="1515" height="236" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597708474556" />
     <state width="1515" height="393" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597623098940" />
-    <state width="1515" height="251" key="GridCell.Tab.0.right" timestamp="1597639875355">
+    <state width="1515" height="236" key="GridCell.Tab.0.right" timestamp="1597708474556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="225" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1597361842537" />
-    <state width="1515" height="251" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597639875355" />
+    <state width="1515" height="236" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1597708474556" />
     <state width="1515" height="393" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597623098941" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1597636545457">
       <screen x="0" y="0" width="1536" height="824" />

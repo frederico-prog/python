@@ -17,38 +17,26 @@ Situação                        Quantidade              Percentual
 3- necessita troca do cabo ou conector  15                     15%
 4- quebrado ou inutilizado              15                     15%
 '''
-tipo_manutencao = (
-    'necessita da esfera',
-    'necessita de limpeza',
-    'necessita troca do cabo ou conector',
-    'quebrado ou inutilizado'
-)
-lista_defeito = []
-i = total_mouse = 0
-id_mouse = -1
+idMouse = -1
+defeitos = ('1 - Necessita de Esfera',
+            '2 - Necessita de limpeza',
+            '3 - Necessita troca de cabo ou conector',
+            '4 - Quebrado ou inutilizado')
+totalDefeitos = [0] * 4
+totalMouses = 0
 
-for situacao in tipo_manutencao:
-    print(f'{i + 1} - {situacao.upper()}')
-    i += 1
+for i in defeitos:
+    print('%s' % i)
 
-while id_mouse != 0:
-    id_mouse = int(input('Informe o id do mouse ou 0 para sair: '))
-    if id_mouse == 0:
-        print('Cadastro da situação dos mouses realizada com sucesso.')
-        break
-    else:
-        lista_mouse = []
-        total = 0
-        cod_manutencao = int(input('Informe o código para a manutenção do mouse: '))
-        lista_mouse.append(id_mouse)
-        lista_mouse.append(cod_manutencao)
-        lista_defeito.append(total)
-        lista_defeito.append(lista_mouse)
-        total_mouse += 1
-print(lista_defeito)
-print(f'Quantidade de mouses: {total_mouse}')
+while idMouse != 0:
+    idMouse = int(input('Identificador do Mouse: '))
+    if idMouse != 0:
+        defeito = int(input('Codigo do defeito: '))
+        totalDefeitos[defeito - 1] += 1
+        totalMouses += 1
 
-print('\t\tSituação\t\t\t\t\tQuantidade\t\t\t\tPercentual')
-for key, value in enumerate(lista_defeito):
-    texto = tipo_manutencao[key - 1]
-    print(f'{texto.upper()}')
+print('Quantidade de mouses: %d ' % totalMouses)
+
+print('Situacao\tQuantidade\tPercentual')
+for i in range(0, len(defeitos)):
+    print('%s\t%d\t%.2f' % (defeitos[i], totalDefeitos[i], totalDefeitos[i] / float(totalMouses) * 100))
